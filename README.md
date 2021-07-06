@@ -1,3 +1,16 @@
+<p>
+  <a href="https://twitter.com/hoaaah" target="_blank" rel="noopener noreferrer">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/hoaaah?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://www.youtube.com/channel/UChxd3uL0JNx9KCC5nbVD1Yg" target="_blank" rel="noopener noreferrer">
+    <img alt="Youtube Channel" src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <!--<a href="https://github.com/sponsors/hoaaah" target="_blank" rel="noopener noreferrer">
+    <img alt="GitHub Sponsors" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&style=for-the-badge">
+  </a>-->
+</p>
+
+
 ### Hi there 👋
 
 I'm [@hoaaah](https://twitter.com/hoaaah) - Full Stack Software Engineer working with PHP, Python, and Dart.
