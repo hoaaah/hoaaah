@@ -13,10 +13,10 @@
 
 ### Hi there 👋
 
-I'm [@hoaaah](https://twitter.com/hoaaah) - Full Stack Software Engineer working with PHP, Python, and Dart.
+I'm [@hoaaah](https://twitter.com/hoaaah) - Full Stack Software Engineer working with PHP, Python, Golang, and Dart.
 
 
-- 🔭 I’m currently working with Yii2 Framework, Laravel, and Flutter.
+- 🔭 I’m currently working with Yii2 Framework, Laravel, Gin Go, and Flutter.
 - 👯 I’m looking to collaborate on making microservices work better in PHP.
 - 💬 Ask me about anything at [issues](https://github.com/hoaaah/hoaaah/issues/new)
 - 📫 How to reach me: [hoaaah.arief@gmail.com](mailto:hoaaah.arief@gmail.com)
