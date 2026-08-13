@@ -23,7 +23,7 @@ I'm [@hoaaah](https://twitter.com/hoaaah) - Full Stack Software Engineer working
 - ⚡ Fun fact: I hate ***python*** indentation
 
 ## Github Top Language
-[![hoaaah's GitHub stats](https://github-stats-extended.vercel.app/api?username=hoaaah)](https://github.com/stats-organization/github-stats-extended)
-
+ ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=hoaaah&langs_count=10&theme=radical)
+ 
 ## Github Stats
-![hoaaah's github stats](https://github-readme-stats.vercel.app/api?username=hoaaah&show_icons=true&theme=radical)
+[![hoaaah's GitHub stats](https://github-stats-extended.vercel.app/api?username=hoaaah&show_icons=true&theme=radical)](https://github.com/stats-organization/github-stats-extended)
